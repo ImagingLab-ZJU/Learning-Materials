@@ -13,7 +13,7 @@ Signals and Systems, Alan V. Oppenheim, MIT [[web]](https://ocw.mit.edu/resource
 
 ## 编程与算法
 ### 书籍
-- C++ Primer (中文版), Stanley B. Lippman et al [[web]](http://www.charleshouserjr.com/Cplus2.pdf) [[中文版链接]](https://github.com/huihut/Cpp_Primer_5th)
+- C++ Primer (中文版), Stanley B. Lippman et al [[web]](http://www.charleshouserjr.com/Cplus2.pdf) [[中文版链接]](https://book.douban.com/subject/25708312/)
 - Introduction to Algorithms (算法导论), Thomas H.Cormen et al [[web]](https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf)
 
 ### 课程

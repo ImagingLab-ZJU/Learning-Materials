@@ -2,9 +2,9 @@
 
 ## 机器学习
 ### 书籍
-- 机器学习，周志华 [[web]](https://pan.baidu.com/s/12IDA0VWWOm1tMbftnfTHwA)
-- 统计学习方法， 李航 [[web]](https://pan.baidu.com/s/1FzYzC7JRopc6nGZcwbM45A)
-- Pattern Recognition and Machine Learning (模式识别与机器学习)，Christopher Bishop [[web]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) [[中文版web]](https://pan.baidu.com/s/140fuaib_R2XzfhRuvs-jjA)
+- 机器学习，周志华 [[web]](https://book.douban.com/subject/26708119/)
+- 统计学习方法，李航 [[web]](https://book.douban.com/subject/10590856/)
+- Pattern Recognition and Machine Learning (模式识别与机器学习)，Christopher Bishop [[web]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - An Introduction to Statistical Learning, Gareth James et al [[web]](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 
 - Machine Learning:A Probabilistic Perspective, Kevin P. Murphy [[web]](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 

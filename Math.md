@@ -23,7 +23,7 @@
 ## 最优化理论
 ### 书籍
 - Convex Optimization (凸优化)，Stephen Boyd [[web]](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-- 最优化理论与方法，袁亚湘等 [[web]](https://pan.baidu.com/s/15MLTem1raWUpwJKilqhMOQ)
+- 最优化理论与方法，袁亚湘等 [[web]](https://book.douban.com/subject/1230338/)
 - Numerical Optimization（数值最优化)，Jorge Nocedal et al [[web]](http://www.bioinfo.org.cn/~wangchao/maa/Numerical_Optimization.pdf)
 - Optimization for Computer Vision, Marco Alexander Treiber [[web]](http://cvrs.whu.edu.cn/downloads/ebooks/Optimization%20for%20Computer%20Vision.pdf)
 
