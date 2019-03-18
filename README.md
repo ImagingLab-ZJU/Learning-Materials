@@ -9,6 +9,7 @@
 - [计算机视觉](ComputerVision.md)
 	- 计算机视觉
 	- 数字图像处理
+	- 计算摄影学
 - [机器学习](MachineLearning.md)
 	- 机器学习
 	- 深度学习 	 
