@@ -13,6 +13,10 @@
 - Machine Learning，李宏毅，台湾大学 [[web]](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) [[B站链接]](https://www.bilibili.com/video/av10590361)
 - Machine Learning (CS229), Andrew Ng, Ron Dror, Stanford [[web]](http://cs229.stanford.edu/) [[B站链接]](https://www.bilibili.com/video/av14806439?from=search&seid=4469568852306251207)
 
+### 其他资料
+- 机器学习白板推到系列 [[web]](https://space.bilibili.com/97068901) (喜欢机器学习理论的推荐看一下)
+- 深度学习500问 [[web]](https://github.com/scutan90/DeepLearning-500-questions)(适合复习和突击)
+
 ## 深度学习
 ### 书籍
 - Deep Learning (深度学习)，Ian Goodfellow [[web]](https://www.deeplearningbook.org/)[[中文版web]](https://github.com/exacity/deeplearningbook-chinese)
